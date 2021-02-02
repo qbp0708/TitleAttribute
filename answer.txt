@@ -1,0 +1,1 @@
+Title attribute is an HTML attribute that can be added to any element, but it is most commonly used with links and images.
